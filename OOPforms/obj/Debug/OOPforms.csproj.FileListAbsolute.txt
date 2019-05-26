@@ -1,0 +1,11 @@
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\bin\Debug\OOPforms.exe.config
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\bin\Debug\OOPforms.exe
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\bin\Debug\OOPforms.pdb
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\obj\Debug\OOPforms.csprojAssemblyReference.cache
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\obj\Debug\OOPforms.Form1.resources
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\obj\Debug\OOPforms.Properties.Resources.resources
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\obj\Debug\OOPforms.csproj.GenerateResource.cache
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\obj\Debug\OOPforms.csproj.CoreCompileInputs.cache
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\obj\Debug\OOPforms.exe
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\obj\Debug\OOPforms.pdb
+C:\Users\dimak\OneDrive\Рабочий стол\OOPforms\OOPforms\obj\Debug\test_classes.Form1.resources

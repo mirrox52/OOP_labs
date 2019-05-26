@@ -1,0 +1,11 @@
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\bin\Debug\Zip.dll
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\bin\Debug\Zip.pdb
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\bin\Debug\OOPforms.exe
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\bin\Debug\System.IO.Compression.dll
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\bin\Debug\OOPforms.pdb
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\bin\Debug\OOPforms.exe.config
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\obj\Debug\Zip.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\obj\Debug\Zip.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\obj\Debug\Zip.csproj.CopyComplete
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\obj\Debug\Zip.dll
+C:\Users\Alexander\Desktop\лабы\4 сем\ООП\n\OOP-Lab2-master\OOPforms\Zip\obj\Debug\Zip.pdb
